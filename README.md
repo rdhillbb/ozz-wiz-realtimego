@@ -20,8 +20,8 @@ A real-time audio integration application that connects Twilio with OpenAI's Rea
 | `USEHTTP` | Communication protocol (`HTTP` or `HTTPS`) | Yes |
 | `XMLMESSAGE` | Path to XML message configuration file | Yes |
 
-####Note:
-######environment variables are to be place in .env where geppettoaudio is executed.
+#### Note:<br>
+###### Environment variables are to be place in .env where geppettoaudio is executed.<br>
 
 ### Message Configuration
 
